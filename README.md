@@ -12,6 +12,7 @@ I'm a tech enthusiast currently pursuing my undergraduate studies in Computer Sc
 [![Node.js](https://img.shields.io/badge/Node.js-orange?style=for-the-badge)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-red?style=for-the-badge)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-yellow?style=for-the-badge)](#)
+[![SQL](https://img.shields.io/badge/SQL-cyan?style=for-the-badge)](#)
 
 ### Tech Stack
 - **Client:** React
