@@ -18,6 +18,7 @@ I'm a tech enthusiast currently pursuing my undergraduate studies in Computer Sc
 - **Server:** Node, Express
 
 ### 🔗 Links
-- [My Portfolio](https://2308harsh.netlify.app/)
-- [My LinkedIn](https://www.linkedin.com/in/harsh-kumar-60134221b/)
-- Email: harshkr5247@gmail.com
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-blue?style=for-the-badge)](https://2308harsh.netlify.app/)
+[![My LinkedIn](https://img.shields.io/badge/My%20LinkedIn-purple?style=for-the-badge)](https://www.linkedin.com/in/harsh-kumar-60134221b/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:harshkr5247@gmail.com)
+
