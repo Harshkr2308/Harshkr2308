@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Harshkr2308
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# HarshKr2308 / README.md
 
-<!---
-Harshkr2308/Harshkr2308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hi, I'm Harsh Kumar! 👋
+
+### About Me
+I'm a tech enthusiast currently pursuing my undergraduate studies in Computer Science and Engineering at IIITG. I am passionate about learning new technologies and building innovative solutions.
+
+### 🛠 Skills
+[![Algorithms](https://img.shields.io/badge/Algorithms-blue?style=for-the-badge)](#)
+[![Data Structures](https://img.shields.io/badge/Data%20Structures-green?style=for-the-badge)](#)
+[![React.js](https://img.shields.io/badge/React.js-purple?style=for-the-badge)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-orange?style=for-the-badge)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-red?style=for-the-badge)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-yellow?style=for-the-badge)](#)
+
+### Tech Stack
+- **Client:** React
+- **Server:** Node, Express
+
+### 🔗 Links
+- [My Portfolio](https://2308harsh.netlify.app/)
+- [My LinkedIn](https://www.linkedin.com/in/harsh-kumar-60134221b/)
+- Email: harshkr5247@gmail.com
